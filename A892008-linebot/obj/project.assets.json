@@ -596,6 +596,23 @@
           }
         }
       },
+      "Line.Messaging/1.4.5": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "lib/netstandard1.3/Line.Messaging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.3/Line.Messaging.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Razor.Language/6.0.11": {
         "type": "package",
         "compile": {
@@ -4026,6 +4043,19 @@
         "lib/netstandard1.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll",
         "logo.png"
+      ]
+    },
+    "Line.Messaging/1.4.5": {
+      "sha512": "IIMWjqf3uWcTTBc1BBY/ou2R4oGLleDqcH7HHEj3glsSQoh2HPX+lpgakny+jWU08Zh3DIw9vPvp6cjOEiwF4w==",
+      "type": "package",
+      "path": "line.messaging/1.4.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard1.3/Line.Messaging.dll",
+        "lib/netstandard1.3/Line.Messaging.xml",
+        "line.messaging.1.4.5.nupkg.sha512",
+        "line.messaging.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Razor.Language/6.0.11": {
@@ -9713,6 +9743,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Line.Messaging >= 1.4.5",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.7"
     ]
   },
@@ -9753,6 +9784,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Line.Messaging": {
+            "target": "Package",
+            "version": "[1.4.5, )"
+          },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[7.0.7, )"

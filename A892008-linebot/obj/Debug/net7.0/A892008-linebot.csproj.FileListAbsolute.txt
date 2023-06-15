@@ -221,3 +221,4 @@ C:\Users\JKT\Desktop\A892008-linebot\A892008-linebot\bin\Debug\net7.0\runtimes\w
 C:\Users\JKT\Desktop\A892008-linebot\A892008-linebot\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\JKT\Desktop\A892008-linebot\A892008-linebot\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\JKT\Desktop\A892008-linebot\A892008-linebot\obj\Debug\net7.0\A892008-linebot.csproj.CopyComplete
+C:\Users\JKT\Desktop\A892008-linebot\A892008-linebot\bin\Debug\net7.0\Line.Messaging.dll

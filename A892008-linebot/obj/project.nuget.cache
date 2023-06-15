@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G78QJ3LcSx+9O6Xzq4ZBQi9eIKvKVZo0qedy3XYlrS7xOjjhMWw+it8vjKpWppPbonxyjVwlVLc2xCVthjZzwQ==",
+  "dgSpecHash": "JmwjfI6kRJ2N26EDE6p1abF8CokQmpn0q8Z7iEjBOB3qMU8KYOa9jQQXv4RZStvnAJNit4IaGa9ypjUVQPcuvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\JKT\\Desktop\\A892008-linebot\\A892008-linebot\\A892008-linebot.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\JKT\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\JKT\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\JKT\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\JKT\\.nuget\\packages\\line.messaging\\1.4.5\\line.messaging.1.4.5.nupkg.sha512",
     "C:\\Users\\JKT\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\JKT\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\JKT\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
