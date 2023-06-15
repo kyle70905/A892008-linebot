@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "A892008-linebot/1.0.0": {
+        "runtime": {
+          "A892008-linebot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A892008-linebot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
